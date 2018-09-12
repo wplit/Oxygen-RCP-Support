@@ -3,7 +3,7 @@
  * Plugin Name: Oxygen RCP Template Support
  * Plugin URI:  https://github.com/wplit/oxygen-rcp-support/
  * GitHub URI:  wplit/oxygen-rcp-support/
- * Description: Allows RCP template customization without using a theme. Made for Oxygen Builder.
+ * Description: Allows RCP template customisation without using a theme. Made for Oxygen Builder.
  * Version:     1.0.0
  * Author:      David Browne
  * Author URI:  https://wplit.com/
