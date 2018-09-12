@@ -1,27 +1,27 @@
 <?php
-/*
-Plugin Name:	Oxygen RCP Template Support
-Plugin URI:		https://wplit.com/
-Description:	Allows RCP template customization without using a theme. Made for Oxygen Builder.
-Version:		1.0.0
-Author:			David Browne
-Author URI:		https://wplit.com/
-License:		GPL-2.0+
-License URI:	http://www.gnu.org/licenses/gpl-2.0.txt
-
-This plugin is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
-any later version.
-
-This plugin is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with This plugin. If not, see {http://www.gnu.org/licenses/gpl-2.0.txt}.
-*/
+/**
+ * Plugin Name: Oxygen RCP Template Support
+ * Plugin URI:  https://github.com/wplit/oxygen-rcp-support/
+ * GitHub URI:  wplit/oxygen-rcp-support/
+ * Description: Allows RCP template customization without using a theme. Made for Oxygen Builder.
+ * Version:     1.0.0
+ * Author:      David Browne
+ * Author URI:  https://wplit.com/
+ *
+ * This program is free software; you can redistribute it and/or modify it under
+ * the terms of the GNU General Public License version 2, as published by the
+ * Free Software Foundation.  You may NOT assume that you can use any other
+ * version of the GPL.
+ *
+ * This program is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE.
+ *
+ * @package    OxygenRcpSupport
+ * @since      1.0.0
+ * @copyright  Copyright (c) 2018, David Browne
+ * @license    GPL-2.0+
+ */
 
 if ( ! defined( 'WPINC' ) ) {
 	die;
