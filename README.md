@@ -1,7 +1,7 @@
 # Oxygen RCP Template Support #
 **Contributors:** David Browne  
 **Tags:** rcp, oxygen  
-**License:** Requires RCP v2.6.6+
+**Requires at least:** RCP 2.6.6
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
