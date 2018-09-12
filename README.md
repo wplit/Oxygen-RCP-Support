@@ -1,6 +1,10 @@
 # Oxygen RCP Template Support #
+**Contributors:** David Brown  
+**Tags:** rcp, oxygen  
+**License:** GPLv2 or later  
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
-Allows RCP template customisation without needing a theme. Built especially for [Oxygen](http://oxygenbuilder.com/) where the theme is completely disabled. 
+Allows Restrict Content Pro template customisation without needing to add files to a theme. Built especially for [Oxygen](http://oxygenbuilder.com/) where the theme is completely disabled.
 
 With this plugin, you can add your customised template files for the registration form, profile form, login form etc inside the /rcp/ folder located inside this plugin instead needing to add to a theme. Everything will work the same.
 
@@ -9,7 +13,7 @@ See [documentation on customising Template files in Restrict Content Pro](https:
 
 ## Installation ##
 
-1. Click on the `Download ZIP` button at the right to download the plugin.
+1. [Download the plugin here.](https://github.com/wplit/oxygen-rcp-support/archive/master.zip)
 2. Go to Plugins > Add New in your WordPress admin. Click on `Upload Plugin` and browse for the zip file.
 3. Activate the plugin.
 
