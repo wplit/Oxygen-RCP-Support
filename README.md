@@ -1,5 +1,5 @@
 # Oxygen RCP Template Support #
-**Contributors:** David Brown  
+**Contributors:** David Browne  
 **Tags:** rcp, oxygen  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
@@ -19,9 +19,8 @@ See [documentation on customising Template files in Restrict Content Pro](https:
 
 ## Usage ##
 
-1. Create copies of the template files you wish to customize.
-2. Place them inside the /rcp/ folder in this plugin.
-3. Your new templates will work
+1. Copy the files from the Restrict Content Pro templates directory into the rcp folder found in this plugin.
+2. Modify the files to your heart's content.
 
 ## Changelog ##
 
