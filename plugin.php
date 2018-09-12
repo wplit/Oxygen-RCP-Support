@@ -20,7 +20,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with This plugin. If not, see {URI to Plugin License}.
+along with This plugin. If not, see {http://www.gnu.org/licenses/gpl-2.0.txt}.
 */
 
 if ( ! defined( 'WPINC' ) ) {
